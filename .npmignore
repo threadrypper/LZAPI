@@ -1,0 +1,9 @@
+src
+*/__tests__/
+replit.nix
+\.replit
+\.git/
+\.cache
+\.config
+\.upm
+tsconfig.json
